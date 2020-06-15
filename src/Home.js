@@ -8,6 +8,6 @@ const ScreenContainer = ({ children }) => (
 
 export const Home = ({ navigation }) => (
     <WebView
-        source={{ uri: 'http://www.exeo-japan.co.jp/s/app/useful/manners/female/' }}
+        source={{ uri: 'https://bakisamachar.com/' }}
       />
 );
