@@ -7,7 +7,7 @@ ExeoJapan
 
 npm install
 
-install npx react-native run-android
+npx react-native run-android
 
 npx react-native start
 
@@ -18,6 +18,6 @@ npm install
 
 npx pod-install ios
 
-install npx react-native run-ios
+npx react-native run-ios
 
 npx react-native start
